@@ -11,6 +11,18 @@ redirect_from:
 Testing
 
 ## <a name="exp"></a> Experience
+Oct 2020 – Present, Applied Research Scientist, *Facebook*\
+Working on computer vision and deep learning.
+
+Sep 2015 – Sep 2020, Research Assistant, *ETH Zürich*\
+Supervisor: Prof. Luc Van Gool\
+Thesis titile: Label Efficient Learning for Scene Understanding
+
+Jul 2019 - Jun 2020, Student Researcher, *Google*\
+Host(s): Prof. Cristian Sminchisescu and Dr. Cordelia Schmid
+
+Nov 2018 - Mar 2019, Software Engineer Intern, *Google*\
+Host(s): Prof. Cristian Sminchisescu and Dr. Cordelia Schmid
 
 
 ## <a name="edu"></a> Education
@@ -84,7 +96,7 @@ Yuhua Chen, Wen Li, Christos Sakaridis, Dengxin Dai, Luc Van Gool\
 *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2018\
 [[pdf](https://arxiv.org/pdf/1803.03243.pdf)]
 [[code(Caffe)](https://github.com/yuhuayc/da-faster-rcnn)]
-[code(PyTorch)](https://github.com/krumo/Domain-Adaptive-Faster-RCNN-PyTorch)]
+[[code(PyTorch)](https://github.com/krumo/Domain-Adaptive-Faster-RCNN-PyTorch)]
 
 Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning\
 Yuhua Chen, Jordi Pont-Tuset, Alberto Montes, Luc Van Gool\
