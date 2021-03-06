@@ -21,8 +21,6 @@ Testing
 *University of Science and Technology of China*\
 2013, BSc, Physics
 
-## <a name="pub"></a> Selected Publications
-
 
 ## <a name="pub"></a> Selected Publications
 Scale-aware Domain Adaptive Faster R-CNN\
