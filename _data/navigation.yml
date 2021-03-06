@@ -1,10 +1,10 @@
 # main links links
 main:
   title: "A1"
-  url: "#head1234"
+  url: "/about/#head1234"
 
   title: "A2"
-  url: "#hd15"  
+  url: "/about/#hd15"  
 
   # - title: "Publications"
   #   url: /publications/
