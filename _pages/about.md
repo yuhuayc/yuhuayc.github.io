@@ -40,7 +40,7 @@ Jinhong Deng, Wen Li, Yuhua Chen, Lixin Duan\
 *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2021
 
 Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation\
-Suman Saha, Anton Obukhov, Danda Pani Paudel, Menelaos Kanakis, Yuhua Chen, Stamatios Georgoulis, Luc Van Gool
+Suman Saha, Anton Obukhov, Danda Pani Paudel, Menelaos Kanakis, Yuhua Chen, Stamatios Georgoulis, Luc Van Gool\
 *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2021
 
 
