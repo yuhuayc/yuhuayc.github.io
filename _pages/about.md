@@ -14,9 +14,13 @@ Testing
 
 
 ## <a name="edu"></a> Education
-2020, PhD in Computer Vision and Machine Learning, *ETH Zürich*  
-2015, MSc in Electrical Engineering and Information Technology, *ETH Zürich*  
-2013, BSc in Physics, *University of Science and Technology of China*  
+*ETH Zürich*\
+2020, PhD, Computer Vision and Machine Learning\
+2015, MSc, Electrical Engineering and Information Technology\
+
+*University of Science and Technology of China*\
+2013, BSc, Physics\
+
 
 ## <a name="pub"></a> Selected Publications
 
