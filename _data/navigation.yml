@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "Education"
-    url: "#edu"
-
   - title: "Experience"
-    url: "#exp"  
+    url: "#exp" 
+
+  - title: "Education"
+    url: "#edu" 
 
   - title: "Publications"
     url: "#pub"
+
+  - title: "Misc"
+    url: "#misc"
 
   # - title: "Publications"
   #   url: /publications/
