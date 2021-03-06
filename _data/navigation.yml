@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "A1"
-    url: "#head1234"
+  - title: "Education"
+    url: "#edu"
 
-  - title: "A2"
-    url: "#hd15"  
+  - title: "Experience"
+    url: "#exp"  
 
   - title: "Publications"
-    url: /publications/
+    url: "#pub"
 
   # - title: "Publications"
   #   url: /publications/
