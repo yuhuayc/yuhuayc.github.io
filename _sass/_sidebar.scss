@@ -8,11 +8,11 @@
 
 .sidebar {
   position: fixed;
-  padding-top: 3em;
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
   @include clearfix();
+  padding-top: 3em;
   margin-bottom: 1em;
 
   @include breakpoint($large) {
