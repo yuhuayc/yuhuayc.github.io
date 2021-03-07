@@ -11,26 +11,29 @@ redirect_from:
 Testing
 
 ## <a name="exp"></a> Experience
-Oct 2020 – Present, Applied Research Scientist, *Facebook*\
+**_Facebook_**\
+Oct 2020 - Present, Applied Research Scientist\
 Working on computer vision and deep learning.
 
-Sep 2015 – Sep 2020, Research Assistant, *ETH Zürich*\
+**_ETH Zürich_**\
+Sep 2015 - Sep 2020, Research Assistant\
 Supervisor: Prof. Luc Van Gool\
 Thesis titile: Label Efficient Learning for Scene Understanding
 
-Jul 2019 - Jun 2020, Student Researcher, *Google*\
-Host(s): Prof. Cristian Sminchisescu and Dr. Cordelia Schmid
+**_Google_**\
+Jul 2019 - Jun 2020, Student Researcher\
+Host(s): Prof. Cristian Sminchisescu, Dr. Cordelia Schmid
 
-Nov 2018 - Mar 2019, Software Engineer Intern, *Google*\
-Host(s): Prof. Cristian Sminchisescu and Dr. Cordelia Schmid
+Nov 2018 - Mar 2019, Software Engineer Intern\
+Host(s): Prof. Cristian Sminchisescu, Dr. Cordelia Schmid
 
 
 ## <a name="edu"></a> Education
-*ETH Zürich*\
+**_ETH Zürich_**\
 2020, PhD, Computer Vision and Machine Learning\
 2015, MSc, Electrical Engineering and Information Technology
 
-*University of Science and Technology of China*\
+**_University of Science and Technology of China_**\
 2013, BSc, Physics
 
 
