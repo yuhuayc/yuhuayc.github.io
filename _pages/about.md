@@ -125,10 +125,19 @@ Yuhua Chen, Dengxin Dai, Jordi Pont-Tuset, Luc Van Gool\
 [[code](https://github.com/yuhuayc/alignhier)]
 
 
-
-
-
 ## <a name="misc"></a> Misc
 
+#### Conference reviewing
+Conference on Computer Vision and Pattern Recognition (**CVPR**), International Conference on Computer Vision (**ICCV**), European Conference on Computer Vision (**ECCV**), International Conference on Learning Representations (**ICLR**), Conference on Neural Information Processing Systems (**NeurIPS**), International Conference on Machine Learning (**ICML**), AAAI Conference on Artificial Intelligence (**AAAI**) ...
 
+#### Journal reviewing
+International Journal of Computer Vision (**IJCV**), IEEE Transactions on Pattern Analysis and Machine Intelligence (**PAMI**), IEEE Transactions on Image Processing (**TIP**), IEEE Transactions on Robotics, IEEE Transactions on Multimedia, IEEE Transactions on Cybernetics, IEEE Access, Neurocomputing, IEEE Transactions on Circuits and Systems for Video Technology ... 
+
+#### Workshop co-organizer
+CVPR 2018 Workshop on Densely Annotated VIdeo Segmentation (**DAVIS 2018**)
+
+#### Teaching
+2017 Fall, Computer Vision and Image Analysis, *ETH Zürich*, Teaching Assistant\
+2016 Fall, Computer Vision and Image Analysis, *ETH Zürich*, Teaching Assistant\
+2015 Fall, Computer Vision, *ETH Zürich*, Teaching Assistant
 
