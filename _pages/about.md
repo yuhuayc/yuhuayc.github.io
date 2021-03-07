@@ -18,7 +18,7 @@ Working on computer vision and deep learning.
 **_ETH Zürich_**\
 Sep 2015 - Sep 2020, Research Assistant\
 Supervisor: Prof. Luc Van Gool\
-Thesis titile: Label Efficient Learning for Scene Understanding
+Thesis title: Label Efficient Learning for Scene Understanding
 
 **_Google_**\
 Jul 2019 - Jun 2020, Student Researcher\
