@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<br/>
-
 I am interested in computer vision and machine learning, and more specifically in topics such as transfer learning, scene understanding and video analysis.
 
 ## <a name="exp"></a> Experience
