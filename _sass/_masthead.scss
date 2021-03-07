@@ -3,11 +3,7 @@
    ========================================================================== */
 
 .masthead {
-  @include clearfix;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0em;
-  float: right;
+  position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
