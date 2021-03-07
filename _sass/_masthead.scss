@@ -3,7 +3,11 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  @include clearfix;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0em;
+  float: right
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -29,14 +33,6 @@
       text-decoration: none;
     }
   }
-
-  &.sticky {
-    @include clearfix();
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0em;
-    float: right;
-  }  
 }
 
 .masthead__menu {
