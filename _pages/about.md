@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Testing
+Constructing
 
 ## <a name="exp"></a> Experience
 **_Facebook_**\
@@ -22,10 +22,10 @@ Thesis title: Label Efficient Learning for Scene Understanding
 
 **_Google_**\
 Jul 2019 - Jun 2020, Student Researcher\
-Host(s): Prof. Cristian Sminchisescu, Dr. Cordelia Schmid
+Host: Prof. Cristian Sminchisescu, Dr. Cordelia Schmid
 
 Nov 2018 - Mar 2019, Software Engineer Intern\
-Host(s): Prof. Cristian Sminchisescu, Dr. Cordelia Schmid
+Host: Prof. Cristian Sminchisescu, Dr. Cordelia Schmid
 
 
 ## <a name="edu"></a> Education
