@@ -10,7 +10,7 @@ redirect_from:
 
 <br/>
 
-Constructing ...
+I am interested in computer vision and machine learning, and more specifically in topics such as transfer learning, scene understanding and video analysis.
 
 ## <a name="exp"></a> Experience
 **_Facebook_**\
@@ -40,6 +40,8 @@ Host: Prof. Cristian Sminchisescu, Dr. Cordelia Schmid
 
 
 ## <a name="pub"></a> Selected Publications
+[[Google Scholar Profile](https://scholar.google.com/citations?user=RaYwRQ8AAAAJ&hl=en)]
+
 Scale-aware Domain Adaptive Faster R-CNN\
 Yuhua Chen, Haoran Wang, Wen Li, Christos Sakaridis, Dengxin Dai, Luc Van Gool\
 *International Journal of Computer Vision* (**IJCV**), 2021\
