@@ -43,7 +43,7 @@ Host: Prof. Cristian Sminchisescu, Dr. Cordelia Schmid
 Scale-aware Domain Adaptive Faster R-CNN\
 Yuhua Chen, Haoran Wang, Wen Li, Christos Sakaridis, Dengxin Dai, Luc Van Gool\
 *International Journal of Computer Vision* (**IJCV**), 2021\
-[pdf(soon)]
+[[pdf](https://link.springer.com/article/10.1007/s11263-021-01447-x)]
 
 <!-- mDALU: Multi-Source Domain Adaptation and Label Unification with Partial Datasets\
 Rui Gong, Dengxin Dai, Yuhua Chen, Wen Li, Luc Van Gool\
@@ -62,7 +62,7 @@ Jinhong Deng, Wen Li, Yuhua Chen, Lixin Duan\
 Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation\
 Suman Saha, Anton Obukhov, Danda Pani Paudel, Menelaos Kanakis, Yuhua Chen, Stamatios Georgoulis, Luc Van Gool\
 *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2021\
-[pdf(soon)]
+[[pdf](https://arxiv.org/pdf/2105.07830.pdf)]
 
 Three Ways to Improve Semantic Segmentation with Self-Supervised Depth Estimation\
 Lukas Hoyer, Dengxin Dai, Yuhua Chen, Adrian Köring, Suman Saha, Luc Van Gool\
